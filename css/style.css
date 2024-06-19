@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+#map {
+    width: 100%;
+    height: 100%;
+}
+.imgClass {
+    display: block;
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+}
+#sidebarImage{
+    max-width: 400px;
+    margin: 0%;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+#icon{
+    display: block;
+    max-width: 15px;
+    max-height: 13px;
+    margin: 0 auto;
+    
+}
+.centered-text {
+    text-align: center;
+    font-size: 10px;
+}
+.under-title {
+    color:darkgray;
+    margin-top: 5px;
+    text-align: center;
+    padding: 0;
+}
+.title{
+    font-size: 28px;
+    text-align: center;
+    padding: 0;
+    border: 1px solid rgb(86, 84, 84);
+    border-radius: 6px;
+    width: 390px;
+}
+.text{
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid rgb(86, 84, 84);
+    border-radius: 6px;
+    line-height: 40px;
+}
+.timing{
+    color:rgb(160, 73, 105);
+}
