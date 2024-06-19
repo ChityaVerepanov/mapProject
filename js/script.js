@@ -1134,7 +1134,7 @@
 		        crs: L.CRS.Simple,
 		        minZoom: 0,
                 maxZoom: 3,
-                layers: [L4],
+                layers: [L1],
 	        });
             
 
